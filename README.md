@@ -2,8 +2,8 @@
 
 Данный проект представляет собой программное средство для мониторинга KPI сотрудников
 
-Клиент: 
-Сервер: 
+Клиент: https://github.com/lerone15/ShilovichVA_214371_RIOPK_Client
+Сервер: https://github.com/lerone15/ShilovichVA_214371_RIOPK_Server
 
 ---
 
